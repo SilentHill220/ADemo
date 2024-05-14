@@ -1,0 +1,3 @@
+[submodule "BDemo"]
+	path = BDemo
+	url = ../BDemo.git
